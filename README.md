@@ -1,3 +1,3 @@
 # demorepo
 what to do
-name
+now
